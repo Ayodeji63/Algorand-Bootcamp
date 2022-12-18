@@ -69,7 +69,20 @@ def first_transaction_example(my_mnemonic, my_address):
         account_info.get('amount')) + "\n")
 
 
-private_key = "8A0NJgSU7+9HyzmK/TY0vzWrYrRQSjEaQT5+P+i919LncWd6cbFiNNs6m/0cTAj2ZqiEXgTDT8thhGj4fsGkNQ=="
-my_mnemonic = "initial capital air basket box bounce april during tackle coil have stumble help wine shuffle cruel moon brush whip heart spin save syrup absent agree"
-my_address = "OVCI6WVFYIKZWWHTOWJ746SHE5LLB7PTBVW3LALHMCBKFXC3FJIY5DJTWE"
+# private_key = "8A0NJgSU7+9HyzmK/TY0vzWrYrRQSjEaQT5+P+i919LncWd6cbFiNNs6m/0cTAj2ZqiEXgTDT8thhGj4fsGkNQ=="
+# my_mnemonic = "initial capital air basket box bounce april during tackle coil have stumble help wine shuffle cruel moon brush whip heart spin save syrup absent agree"
+# my_address = "OVCI6WVFYIKZWWHTOWJ746SHE5LLB7PTBVW3LALHMCBKFXC3FJIY5DJTWE"
+# first_transaction_example(my_mnemonic, my_address)
+
+private_key = "LcKFv+JkPOqRlm8daiXHOa6wBvhMYVAQnN63BhKX9L0hqROY6r61RiRYyhbtyjRn2dd7O0GhOnciT4rFavBLtQ=="
+my_mnemonic = "east blade garlic evolve juice kind region hurdle dry noble toe toe genuine accuse guitar genuine anxiety icon urban hidden catch chair use absent lava"
+my_address = "EGURHGHKX22UMJCYZILO3SRUM7M5O6Z3IGQTU5ZCJ6FMK2XQJO25ZIQROI"
 first_transaction_example(my_mnemonic, my_address)
+# account 2 Address = QHREXSB574H2JZV75S5OIN2JKKUEAWDPMXRD2SGFKCWSIE3JLYKPXVITTI
+# My private key = sjpZptMP/y2NXEVvUkDdBqjSzOyBnnc6K1ARKeBlPy+B4kvIPf8PpOa/7LrkN0lSqEBYb2XiPUjFUK0kE2leFA==
+# My passphrase = film gossip spring wood wrap enter tongue earn evil access huge lesson pipe creek author ozone exclude provide pool much scare sunny ketchup ability master
+
+# Account 3
+# My address = EGURHGHKX22UMJCYZILO3SRUM7M5O6Z3IGQTU5ZCJ6FMK2XQJO25ZIQROI
+# My private key = LcKFv+JkPOqRlm8daiXHOa6wBvhMYVAQnN63BhKX9L0hqROY6r61RiRYyhbtyjRn2dd7O0GhOnciT4rFavBLtQ==
+# My passphrase = east blade garlic evolve juice kind region hurdle dry noble toe toe genuine accuse guitar genuine anxiety icon urban hidden catch chair use absent lava
